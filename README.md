@@ -1,7 +1,5 @@
 # A Deep Learning based Cloud Intrusion Detection System
 
-[Paper (PDF)](A Deep Learning based Cloud Intrusion Detection System.pdf)
-
 Overview
 - This repository contains code, models, and artifacts accompanying the paper "A Deep Learning based Cloud Intrusion Detection System".
 - The project applies deep learning techniques to detect intrusions in cloud environments from network/host telemetry and demonstrates dataset preparation, model training, evaluation, and inference.
