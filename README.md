@@ -1,8 +1,3 @@
-GitHub Copilot Chat Assistant
-
-Here’s a suggested README.md for the "A Deep Learning based Cloud Intrusion Detection System" project. Tell me if you want me to create this file in the repo.
-
----
 # A Deep Learning based Cloud Intrusion Detection System
 
 [Paper (PDF)](A Deep Learning based Cloud Intrusion Detection System.pdf)
