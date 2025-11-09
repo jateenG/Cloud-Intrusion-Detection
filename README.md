@@ -87,9 +87,3 @@ Notes / TODO
 - Add requirements.txt (list core libs: numpy, pandas, scikit-learn, torch/tensorflow, matplotlib, seaborn)
 - Add example config files and a minimal sample dataset (or data download scripts)
 - Add CI for unit tests and linting (optional)
-
----
-
-Would you like me to:
-1) Create this README.md in the repository now?  
-2) Customize sections (e.g., fill in exact dataset name, model types, training commands, and license) — if yes, please provide those details.
